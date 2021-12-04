@@ -1,5 +1,5 @@
 {
-  "name": "shared-configs",
+  "name": "@james-rowbotham/shared-configs",
   "version": "1.0.0",
   "description": "Package for all JS / TS config files",
   "keywords": [
