@@ -5,6 +5,9 @@
   "keywords": [
     "configs"
   ],
+  "repository": {
+    "directory": "https://github.com/jrowbotham93/shared-configs"
+  },
   "author": "James Rowbotham",
   "license": "ISC",
   "devDependencies": {
